@@ -7,8 +7,8 @@
 
 ### Screenshots
 <p float="left">
-  <img alt="BTC Page" src="assets/python_CBc9wZWEiH.png" width="300"/>
-  <img alt="BNB Page" src="assets/python_O3a9itTWhc.png" width="250"/>
+  <img alt="BTC Page" src="assets/python_CBc9wZWEiH.png" width="350"/>
+  <img alt="BNB Page" src="assets/python_O3a9itTWhc.png" width="300"/>
 </p>
 
 #### Warning
